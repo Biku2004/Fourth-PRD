@@ -1,0 +1,99 @@
+============================
+STUDENT PRACTICE TRACKER
+============================
+
+
+Enter Student Name:
+Rahul
+
+Enter Course Name: 
+Java
+
+Enter Completed Topics: 
+5
+
+Enter Questions Solved: 
+20
+
+
+    ============================
+        MENU
+    ============================
+    1. View Student Details
+    2. View Progress
+    3. Add Completed Topics
+    4. Add Solved Questions
+    5. Exit
+
+
+Enter your choice:
+2
+
+Completed Topics: 5
+Questions Solved: 20
+    ============================
+        MENU
+    ============================
+    1. View Student Details
+    2. View Progress
+    3. Add Completed Topics
+    4. Add Solved Questions
+    5. Exit
+
+
+Enter your choice:
+3
+
+Enter New Completed Topics:
+2
+
+Topics updated successfully
+Total Completed Topics: 7
+    ============================
+        MENU
+    ============================
+    1. View Student Details
+    2. View Progress
+    3. Add Completed Topics
+    4. Add Solved Questions
+    5. Exit
+
+
+Enter your choice:
+4
+
+Enter New Questions Solved:
+10
+
+Questions updated successfully
+Total Questions Solved: 30
+    ============================
+        MENU
+    ============================
+    1. View Student Details
+    2. View Progress
+    3. Add Completed Topics
+    4. Add Solved Questions
+    5. Exit
+
+
+Enter your choice:
+2
+
+Completed Topics: 7
+Questions Solved: 30
+    ============================
+        MENU
+    ============================
+    1. View Student Details
+    2. View Progress
+    3. Add Completed Topics
+    4. Add Solved Questions
+    5. Exit
+
+
+Enter your choice:
+5
+
+Thank you for using Student Practice Tracker
+Keep Practicing!
